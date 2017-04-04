@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AssesmentOne - Quiz</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="label_input_name">Enter your name</string>
+    <string name="button_text_submit">Submit</string>
+    <string name="label_current_score">Score</string>
+    <string name="label_question_number">Question No</string>
+    <string name="true_buttton">True</string>
+    <string name="false_buttton">False</string>
+    <string name="previous_buttton">Previous</string>
+    <string name="next_buttton">Next</string>
+    <string name="answer_button">Answer</string>
+    <string name="hint_button">Hint</string>
+    <string name="text_yakin">Yakin ingin menggunakan bantuan?</string>
+    <string name="button_yakin">Yakin</string>
+    <string name="label_share">Share</string>
+    <string name="label_restart">Restart</string>
+    <string name="label_exit">Exit</string>
+</resources>

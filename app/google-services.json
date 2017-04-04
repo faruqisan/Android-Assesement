@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "921216210653",
+    "firebase_url": "https://assementone.firebaseio.com",
+    "project_id": "assementone",
+    "storage_bucket": "assementone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921216210653:android:9eb4f1eb5dac9470",
+        "android_client_info": {
+          "package_name": "faruqisan.assesmentone_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921216210653-c5qi7k6d0lahq8lmfqrjriaj7vce8enr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "faruqisan.assesmentone_quiz",
+            "certificate_hash": "0402E603467378A4226577A9F2FAAE3985809290"
+          }
+        },
+        {
+          "client_id": "921216210653-fkp8rukdbtcvsghd721egaqq0i9jl3ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfzFusqqxPdZKp0J1W_NCOQz-_WumaCtM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921216210653-fkp8rukdbtcvsghd721egaqq0i9jl3ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

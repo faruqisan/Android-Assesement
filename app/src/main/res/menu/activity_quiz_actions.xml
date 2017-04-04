@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:support="http://schemas.android.com/tools">
+    <!--android:actionProviderClass="android.widget.ShareActionProvider"-->
+    <item
+        android:id="@+id/share"
+        support:actionProviderClass="android.support.v7.widget.ShareActionProvider"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="@string/label_share"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/restart"
+        android:icon="@android:drawable/ic_menu_rotate"
+        android:title="@string/label_restart"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/exit"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="@string/label_exit"
+        app:showAsAction="always"
+        />
+</menu>
